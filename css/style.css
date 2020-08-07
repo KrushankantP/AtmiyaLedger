@@ -63,14 +63,17 @@ p {
 }
 
 .btn:hover {
-    background: #ba923c;
+    background: #896d1e;
 }
 
 .btn-dark {
     background: #333;
     color: #fff;
 }
-
+.bg-dark {
+    background: #333;
+    color: #f4f4f4;
+}
 .bg-light {
     background: #f4f4f4;
     color: #333;
